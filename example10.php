@@ -3,7 +3,7 @@
 * @file: example10.php
 * @brief: PHP面向对象——对象拷贝
 * @author: feihu1996.cn
-* @date: 上午14:05 18-8-4
+* @date: 下午14:05 18-8-4
 * @version: 1.0
 */
 

@@ -3,7 +3,7 @@
 * @file: example11.php
 * @brief: PHP面向对象——类型约束
 * @author: feihu1996.cn
-* @date: 上午14:35 18-8-4
+* @date: 下午14:35 18-8-4
 * @version: 1.0
 */
 

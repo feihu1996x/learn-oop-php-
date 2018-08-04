@@ -3,7 +3,7 @@
 * @file: example08.php
 * @brief: PHP面向对象——后期静态绑定
 * @author: feihu1996.cn
-* @date: 上午12:47 18-8-4
+* @date: 下午12:47 18-8-4
 * @version: 1.0
 */
 

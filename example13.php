@@ -3,13 +3,17 @@
 * @file: example13.php
 * @brief: PHP面向对象——接口
 * @author: feihu1996.cn
-* @date: 上午15:38 18-8-4
+* @date: 下午15:38 18-8-4
 * @version: 1.0
 */
 
 Interface Person{
+    /*
+    接口中只能定义空方法,
+    且方法都必须是公有
+    */
     const ATTR = "human";
-    public function eat();  // 接口中只能定义空方法
+    public function eat(); 
     public function sleep();
 }
 
@@ -29,7 +33,12 @@ Interface AB extends Ia, Ib{  // 接口之间的继承
 
 }  
 
-class A implements Person{  // 实现Person接口的类
+class A implements Person{
+    /*
+    实现Person接口的类,
+    类中必须实现接口中定义的所有方法
+    */
+
     public function eat() {
         echo "eating ...";
         echo "\r\n";

@@ -3,7 +3,7 @@
 * @file: example09.php
 * @brief: PHP面向对象——魔术方法
 * @author: feihu1996.cn
-* @date: 上午13:07 18-8-4
+* @date: 下午13:07 18-8-4
 * @version: 1.0
 */
 
